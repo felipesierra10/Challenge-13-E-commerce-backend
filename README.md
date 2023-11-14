@@ -23,6 +23,8 @@ N/A
 
 Here is the link: https://felipesierra10.github.io/Challenge-13-E-commerce-backend/
 
+insomnia test vid : https://drive.google.com/file/d/1rEyhwqxNWsjs2WAcRSRdxlNfNZbGULc2/view?usp=drive_link
+
 ## Credits
 
 Felipe Sierra
